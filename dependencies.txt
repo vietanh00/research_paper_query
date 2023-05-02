@@ -1,0 +1,5 @@
+transformers
+condacolab
+datasets
+gradio
+transformers[onnx]

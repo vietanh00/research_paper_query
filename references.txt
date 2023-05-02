@@ -1,0 +1,20 @@
+DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter
+By: Sanh, Victor and Debut, Lysandre and Chaumond, Julien and Wolf, Thomas
+Year: 2019
+Online at: https://huggingface.co/distilbert-base-uncased-distilled-squad
+==================================================
+Question answering
+By: Hugging Face
+Online at: https://huggingface.co/learn/nlp-course/chapter7/7
+==================================================
+Semantic Search With FAISS
+By: Hugging Face
+Online at: https://huggingface.co/learn/nlp-course/chapter5/6 
+==================================================
+Fast Tokenizers in the QA Pipeline
+By: Hugging Face
+Online at: https://huggingface.co/learn/nlp-course/chapter6/3b?fw=tf#handling-long-contexts
+==================================================
+The dataset of arcxiv papers on Machine Learning
+By:
+Online at:
