@@ -30,7 +30,7 @@ from transformers import TFAutoModelForQuestionAnswering
 from transformers import pipeline
 
 from datasets import load_dataset
-dataset = load_dataset("csv", data_files="https://raw.githubusercontent.com/vietanh00/research_paper_query/main/arxiv_papers.csv", split="train")
+dataset = load_dataset("csv", data_files="https://raw.githubusercontent.com/vietanh00/research_paper_query/main/data/arxiv_papers.csv", split="train")
 #only keep the title and abstract columns; remove rows with abstract < 30 since those likely won't help
 dataset = dataset.filter(lambda x: len(x["abstract"]) > 30)
 dataset_columns = dataset.column_names
