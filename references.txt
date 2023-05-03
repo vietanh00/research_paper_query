@@ -15,6 +15,6 @@ Fast Tokenizers in the QA Pipeline
 By: Hugging Face
 Online at: https://huggingface.co/learn/nlp-course/chapter6/3b?fw=tf#handling-long-contexts
 ==================================================
-The dataset of arcxiv papers on Machine Learning
-By:
-Online at:
+Artificial Intelligence Arxiv
+By: Johannes Hotter
+Online at: https://www.kaggle.com/datasets/johoetter/design-thinking-arxiv
